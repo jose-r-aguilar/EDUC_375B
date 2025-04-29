@@ -1,0 +1,84 @@
+File Manifest for ICPSR 34439
+
+Bill & Melinda Gates Foundation. Gates Millennium Scholars (GMS) Survey
+Data Cohort 5, United States, 2004-2009 . ICPSR34439-v4. Ann Arbor, MI:
+Inter-university Consortium for Political and Social Research
+[distributor], 2019-10-01. http://doi.org/10.3886/ICPSR34439.v4
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34439-descriptioncitation.pdf       -       -         -       2020-09-03  -
+
+    34439-related_literature.txt        -       -         -       daily       -
+
+    34439-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Freshmen Survey - Public Use
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34439-0001-Codebook-MULTI.pdf       -       -         -       2019-10-01  d689724a82924df766157f832b4b1746
+
+    34439-0001-Data.dta                 -       2,060     1211    2019-10-01  7ad3aa6eb6e8f329f5705cf6a2f48675
+
+    34439-0001-Data.rda                 -       2,060     1211    2019-10-01  340ba5bee04e6be0c44803f7b6f2f04c
+
+    34439-0001-Data.sav                 -       2,060     1211    2019-10-01  e8b92d4be97439d36145e1d1b3d943c4
+
+    34439-0001-Data.stc                 -       2,060     1211    2019-10-01  fecdd0fcdd88bf59397a68bc248c2fa4
+
+    34439-0001-Data.tsv                 -       2,060     1211    2019-10-01  16c11c9ec38dbc7a14531c3d573eaa66
+
+    34439-0001-Data.txt                 2785    2,060     1211    2019-10-01  ccc2cc493b3e0e5a7adcb4dc4df71a4c
+
+    34439-0001-Questionnaire-MULTI.pdf  -       -         -       2019-10-01  088491ed0125b43d2517027dfb8279a7
+
+    34439-0001-Report-MULTI.pdf         -       -         -       2019-10-01  7b8a1e70f2cefdb5b6618889b2d22751
+
+    34439-0001-Setup.dct                -       -         -       2019-10-01  dbdd00151ee7d98282e4981de1672565
+
+    34439-0001-Setup.do                 -       -         -       2019-10-01  0b70a5445c88f65eed672f90db14edd7
+
+    34439-0001-Setup.sas                -       -         -       2019-10-01  8e1f77f2d06b0e73eaab49c1bfef1b26
+
+    34439-0001-Setup.sps                -       -         -       2019-10-01  34afc8f226fbe10a77ff85b6820acbe4
+
+    34439-0001-Supplemental_syntax.do   -       -         -       2019-10-01  ccad32effb8331f8561abacd46569265
+
+    34439-0001-Supplemental_syntax.sas  -       -         -       2019-10-01  d5aa4cd4e5ee915225a152fb40a48677
+
+
+DS0002 Freshmen Survey - Restricted Use
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34439-0002-Codebook-MULTI.pdf       -       -         -       2019-10-01  d689724a82924df766157f832b4b1746
+
+    34439-0002-Questionnaire-MULTI.pdf  -       -         -       2019-10-01  088491ed0125b43d2517027dfb8279a7
+
+    34439-0002-Report-MULTI.pdf         -       -         -       2019-10-01  7b8a1e70f2cefdb5b6618889b2d22751
+
+
+Version History
+
+2019-10-01 The collection has been updated to correct an error in the
+previously released data.  2019-04-01 The surveys administered at Baseline,
+1st Follow-Up, and 2nd Follow-Up were merged together into a single file
+for cohort 5. There is now a single merged public-use file and a single
+merged restricted-use file. Non-cognitive scores were removed from this
+study and will be added back into other data forthcoming in the Gates
+Millennium Scholars (GMS) series. The data and associated documentation
+were updated to current curation standards.  2018-02-15 <p>Cohort 5 (2009)
+2nd Follow-Up Survey (Public and Restricted) have been added to this study.
+The original datasets (5 and 6) were incorrectly labeled and have been
+corrected to say Freshman Cohort 5 (2005, 2007) Longitudinal Survey
+(Baseline, 1st Follow-Up).</p>

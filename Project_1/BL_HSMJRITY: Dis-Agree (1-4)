@@ -1,0 +1,26 @@
+BL_HSMJRITY: Dis-Agree (1-4)
+
+Cross - Race Social Score:
+FU1_STUDYRG 	Yes/No (1/2)
+FU1_DATERGRP 	Yes/No (1/2)
+FU1_PERCCHNG	Yes/No (1/2)
+FU1_SOCRACE		Dis-Agree (1-5)
+
+NegaticveRace Academic Score: 
+FU1_ACDDISCR Discrim-Sup(1-4)
+FU1_FACINAPP Yes/No (1/2)
+**(Skip) FU1_FACINAPN Many - Once (1-3)
+FU1_ACDEXPRC Dis-Agree (1-5)
+
+Race Self-Preceptions: 
+FU1_SENSETHI Strngth,Strngth, Same (1-3)
+
+
+Race Claimte: 
+FU1_STUDINAC Not Apply - Hostilities 1-5
+FU1_SOCDISCR	Disc-Supp (1-4)
+FU1_MINRACE Dis-Agree (1-5)
+
+FU1_HISPCOUN: Mex, PR, Cub, Other 
+
+FU1_PERCCHNG Yes/No (1/2)

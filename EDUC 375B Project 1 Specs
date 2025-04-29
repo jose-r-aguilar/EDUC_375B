@@ -1,0 +1,135 @@
+EDUC 375B Project 1 Specs
+^Involvement Psotive More Invovement
+BL_WKWSTDTS ^ (1-6) 3TimeWeek - Less @
+BL_DISCIDEA ^ (1-6) 3TimeWeek - Less@ 
+BL_UGREEKS ^ (1-5) Never-Often
+BL_URESHALL ^ (1-5) Never-Often
+BL_UCULTURE ^ (1-5) Never-Often
+BL_UNDSOSTU ^ (1-4) Alot-Not at all @
+FU1_UGREEKS ^ (1-5) Never-Often 
+FU1_WKWSTDTS ^ (1-6) 4TimesWeek - Less @
+FU1_RGRPSSUP ^ (1-4) Dis-Agree
+
+$Elite Score Postive More Elite
+BL_RSNSTREP$ (1-3)Imp
+BL_COMDEGRE$ (1-4) Agree
+BL_COMWCOLL$ (1-4) Agree
+BL_LCGOODLK$ (1-5) Agree-Disagree @
+BL_SEESTMWO$ (1-5) Agree-Disagree @
+BL_SEDOWELL$ (1-5) Agree-Disagree @
+BL_AEHONSTD$ (1-5) Agree-Disagree @
+FU1_ACDEXPRC (1-5) Disagree-Agree
+FU1_LCGOODLK (1-5) Agree-Disagree @
+FU1_AENOTWEL (1-5) Agree-Disagree @
+
+
+
+#Career Prep Postive - More Preped 
+BL_HIGHDEGR# (Degree Type)
+BL_ATTNGRAD# (1-4) Likely-Unlikely @
+FU1_CARTEACH # (1-4) Often-Never   @ 
+FU1_ANALSKL # (1-5) Deal - Not at all @
+FU1_WRKINDEP # (1-5) Deal - Not at all @
+FU1_COMMORAL # (1-5) Deal - Not at all @
+FU1_WRITCLER # (1-5) Deal - Not at all @
+FU1_WLCOMPDG # (1-4) Likely-Unlikely   @
+
+
+*Elite Career (Reference) Postive - More Elite
+FU1_JOBSATIS * (1-5) ########
+FU1_ACADEXMR * (1-4) Excel-Poor @
+FU1_MAJETCLG * (1-5) Dis-Agree @
+FU1_MAJETWRL * (1-5) Dis-Agree @
+
+
+
+&Leadership Score
+FU1_GLEADER &  (1-0)Yes/No XXXXXX
+FU1_NATLEAD & (1-4) Dis-Agree
+FU1_LABLEAD &  (1-4) Dis-Agree
+FU1_DESTLEAD&  (1-4) Dis-Agree
+FU1_LEADDEF & (1-4) Dis-Agree
+FU1_OTHLEAD &  (1-4) Dis-Agree
+BL_GLEADER & (1-0)Yes/No XXXXXXXX
+
+Clean (Done): 
+BL_MARKER
+FU1_MARKER
+FU2_MARKER
+
+Control (Done): 
+RACE_DB
+SEX_DB
+REC_NREC
+FU1_CORRCOLL
+
+Figure Out(?)
+BL_WKHRWEEK(?) XX
+BL_TMSSTUDY (?)
+Major Combine:
+	BL_COLLMAJR$
+	BL_INTDMAJR$
+
+FU1_CORRCOLL ^ (1/0) XXXXXXXX
+
+BL_TMEXTRAC ^ (Num) XXXXXXXX
+
+
+
+BL_FAMWCOLL XXXXXXXX
+BL_OCCUASPI$ *******MAYBE************
+BL_OCCUASPO$ *******MAYBE************
+FU1_GMSLEADR XXXXXXXX
+FU1_GMSLDACT XXXXXXXX
+FU1_GMSAFFRC XXXXXXXX
+FU1_GMSMENTR XXXXXXXX
+BL_AFFOTHST$ (1-0)Yes/No XXXXX
+FU1_AFFOTHST (1-0)Yes/No XXXXX
+FU1_HARDEREX XXXXXXXX
+
+
+
+FU1_WKHRWEEK # XXXXXXXX
+FU1_JOBRELMA # (1-0)Yes/No XXXXX
+
+
+FU1_SESATISF * XXXXXX
+FU1_OCCUASPI * *******MAYBE************
+FU1_OCCUASPO * *******MAYBE************
+FU1_INDUSJ1CODE ********MAYBE************
+
+---FU1------
+
+
+Combine
+FU1_COLLMAJR (?)
+FU1_INTDMAJR (?)
+
+
+
+
+
+
+
+
+
+Combine 1-5 Need to take the highest *
+FU1_INCOMEJ1 *
+FU1_INCOMEH1 *
+FU1_INCOMED1 *
+FU1_INCOMEW1 *
+FU1_INCOMEM1 *
+FU1_INCOMEA1 *
+
+
+
+
+
+
+
+
+
+
+
+
+

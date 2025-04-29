@@ -1,0 +1,29 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/Users/joseaguilar/Documents/EDUC 375B/hw2.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}31 Jan 2024, 15:58:09
+
+{com}. keep female wlread usa
+{err}variable {bf}wlread{sf} not found
+{txt}{search r(111), local:r(111);}
+
+{com}. keep feamle wleread usa
+{err}variable {bf}feamle{sf} not found
+{txt}{search r(111), local:r(111);}
+
+{com}. keep female wleread usa
+
+. tab female
+
+ {txt}student is {c |}
+     female {c |}
+    (dummy) {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+       male {c |}{res}      2,206       48.72       48.72
+{txt}     female {c |}{res}      2,322       51.28      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}      4,528      100.00
+
+{com}. exit, clear
